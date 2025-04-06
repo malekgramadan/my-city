@@ -6,20 +6,24 @@
     background-color: darkgray;
   }
 
-  .fact-box{
+.fact-box{
     background-color: white;
     width: 550px;
     border-radius: 10px;
   }
 
-  .inbox-text{ 
+.facts-title{
+    text-align: center;
+}
+
+.text-format{ 
     color: black;
     background-color: white;
     margin: 10px;
     padding: 10px;
   }
 
-  .image-style{
+.image-style{
     width: 500px;
     height: 150px;
     border-radius: 10px;
