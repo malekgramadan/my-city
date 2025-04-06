@@ -1,0 +1,22 @@
+*{
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    background-color: darkgray;
+}
+
+.image-style{
+    width: 800px;
+    height: 800px;
+    border-radius: 20px;
+  }
+
+.button {
+  width: 180px;
+  height: 30px;
+  border-radius: 10px;
+  font-style: oblique;
+  background-color:black;
+}

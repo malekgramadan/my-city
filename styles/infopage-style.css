@@ -12,6 +12,7 @@
   height: 30px;
   border-radius: 10px;
   color: black;
+  font-style: oblique;
   background-color:white;
 }
 
@@ -30,5 +31,5 @@
 .image-style{
   width: 500px;
   height: 250px;
-  border-radius: 100px;
+  border-radius: 20px;
 }

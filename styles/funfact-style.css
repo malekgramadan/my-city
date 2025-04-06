@@ -27,3 +27,12 @@
     height: 300px;
     border-radius: 10px;
   }
+
+  .button {
+    width: 180px;
+    height: 30px;
+    border-radius: 5px;
+    color: black;
+    font-style: oblique;
+    background-color:white;
+  }
